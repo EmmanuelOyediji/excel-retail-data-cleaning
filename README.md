@@ -31,7 +31,7 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 2. **Cleaned Data**: 1,000 rows after cleaning
 3. **Cleaning Log**: 15 documented actions
 
-[Screenshot: Cleaning Log]
+![Cleaning log](screenshots/03_cleaning_log.png)
 
 ## Problems and Fixes
 
@@ -70,7 +70,8 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 - Quantity, Price and Customer ID are all numeric
 - Country names are consistent
 
-[Screenshot: Raw vs Cleaned comparison]
+![Raw data before cleaning](screenshots/01_raw_data_before.png)
+![Cleaned data after cleaning](screenshots/02_cleaned_data_after.png)
 
 ## Verification Checks I Ran
 
