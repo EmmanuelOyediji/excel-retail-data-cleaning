@@ -2,9 +2,6 @@
 
 **TechBridge Data Analytics Internship, Task 1**
 
-Author: Emmanuel Oyediji (OyeeAnalytics), data analyst
-GitHub: [EmmanuelOyediji](https://github.com/EmmanuelOyediji)
-
 ---
 
 ## Overview
@@ -23,7 +20,7 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 ## Tools
 
 - Microsoft Excel: TRIM, Remove Duplicates, Find & Replace, Text to Columns, custom date formats, COUNTBLANK and COUNTIF checks
-- Google Sheets (for submission)
+- Google Sheets 
 
 ## Workbook Structure
 
@@ -95,17 +92,4 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 View the live workbook here (view only):
 [Open the workbook in Google Sheets](https://docs.google.com/spreadsheets/d/13uRXylv-C9fkihAm-794qyiQx5-lLUyO5xyckDtxZtA/edit?usp=sharing)
 
-## Repository Contents
 
-```
-README.md
-EmmanuelOyediji_Task1_Data_Cleaning.xlsx
-screenshots/
-    (raw vs cleaned comparison, Cleaning Log)
-```
-
-## Author
-
-**Emmanuel Oyediji (OyeeAnalytics)**
-Data analyst working with Excel, SQL and Power BI
-GitHub: [github.com/EmmanuelOyediji](https://github.com/EmmanuelOyediji)
