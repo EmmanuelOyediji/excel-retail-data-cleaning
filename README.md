@@ -10,6 +10,11 @@ For Task 1 of the TechBridge Data Analytics Internship, I was given a messy reta
 
 I cleaned the data in Microsoft Excel, then converted the workbook to Google Sheets for submission.
 
+## How to View the Project
+
+View the live workbook here (view only):
+[Open the workbook in Google Sheets](https://docs.google.com/spreadsheets/d/13uRXylv-C9fkihAm-794qyiQx5-lLUyO5xyckDtxZtA/edit?usp=sharing)
+
 ## Dataset
 
 - 1,020 rows and 8 columns
@@ -87,9 +92,6 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 - **Display is not value.** Two dates that show different layouts can block duplicate detection even when the underlying value is identical.
 - **Missing data should be documented, not invented.** A blank is not a zero, and a careful note in the log is worth more than a convenient guess.
 
-## How to View the Project
 
-View the live workbook here (view only):
-[Open the workbook in Google Sheets](https://docs.google.com/spreadsheets/d/13uRXylv-C9fkihAm-794qyiQx5-lLUyO5xyckDtxZtA/edit?usp=sharing)
 
 
