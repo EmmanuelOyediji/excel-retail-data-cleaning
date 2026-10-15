@@ -31,7 +31,7 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 2. **Cleaned Data**: 1,000 rows after cleaning
 3. **Cleaning Log**: 15 documented actions
 
-![Cleaning log](screenshots/03_cleaning_log.png)
+![Cleaned data after cleaning](screenshots/02_cleaned_data_after.png)
 
 ## Problems and Fixes
 
@@ -71,7 +71,7 @@ I cleaned the data in Microsoft Excel, then converted the workbook to Google She
 - Country names are consistent
 
 ![Raw data before cleaning](screenshots/01_raw_data_before.png)
-![Cleaned data after cleaning](screenshots/02_cleaned_data_after.png)
+![Cleaning log](screenshots/03_cleaning_log.png)
 
 ## Verification Checks I Ran
 
